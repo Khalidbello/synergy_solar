@@ -1,0 +1,6 @@
+{
+  "name": "Synergy Renewable Energy",
+  "description": "Solar Installation Sales and Automation System for Synergy Renewable Energy Limited in Kaduna, Nigeria, featuring an AI sales assistant and CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
